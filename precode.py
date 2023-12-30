@@ -12,6 +12,6 @@ for i in range(n):
             pass
         else:
             gd[s] = 1
-            cnt += 1
+            cnt += 2
 sys.stdout.write(str(cnt)+'\n')
 
